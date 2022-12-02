@@ -1,0 +1,29 @@
+.task-action {
+    cursor: pointer;
+}
+
+table{
+    color: black;
+}
+
+tr{
+   
+    margin: 0 15px 5px 15px;
+}
+
+h3, h4{
+    color:tomato
+  }
+
+.task-modeC{
+    background-color: #97f09f;
+}
+.task-modeD{
+    background-color: #F7F7F7;
+    text-decoration: line-through;
+}
+
+.error{
+ color: red;
+ font-size: 12pt;
+}
